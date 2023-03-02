@@ -3,6 +3,7 @@
 It is still not completed. Just enjoy it.
 To run the program, enter these commands to command line respectively:
 <br/>
+
 ```
 git clone https://github.com/Metudu/Chess.git
 cd Chess
